@@ -5,7 +5,7 @@ This project is inspired by and adapted from the original "Ralph" workflow in
 https://github.com/frankbria/ralph-claude-code
 
 
-Shell tools to run the "Cralph" autonomous Codex loop, plus helpers to set up
+Shell tools to run the "Cralph" autonomous Codex loop (which is Ralph for codex), plus helpers to set up
 new projects, import PRDs, and monitor progress.
 
 ## Requirements
